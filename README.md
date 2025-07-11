@@ -7,9 +7,13 @@ Este proyecto es una **página web de e-commerce** desarrollada en **WordPress +
 
 ## 🖼️ Capturas del sitio
 
-| Inicio | Catálogo | Carrito de compras |
-|-------|----------|--------------------|
-| ![Inicio](link-a-captura-home) | ![Catálogo](link-a-captura-catalogo) | ![Carrito](link-a-captura-carrito) |
+![Inicio](inicio.png) 
+![Categorias](categorias.png) 
+![Inicio2](inicio2.png)
+![Contacto](contacto.png)
+![Producto](producto.png)
+![Carrito](carrito_de_compra.png)
+![Compra](compra.png)
 
 ---
 
